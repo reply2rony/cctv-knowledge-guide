@@ -1,0 +1,19 @@
+item,section,status,notes
+Name the six parts of a CCTV system,System parts,learned,Camera recorder storage network viewing power
+Explain dome vs bullet vs PTZ cameras,Camera types,learned,Fixed dome indoor bullet outdoor PTZ movable
+Explain NVR vs DVR,Recorders,learned,NVR for IP cameras DVR for analogue cameras
+Explain PoE in one sentence,Network and power,learned,One Ethernet cable carries power and data
+Explain storage for 8 cameras at 4 Mbps for 30 days,Storage,learned,About 10 TB before overhead — see script
+Explain how motion recording changes storage,Storage,reviewing,Motion-only recording cuts storage but leaves gaps
+Explain retention and why footage must be deleted,Storage,reviewing,Keep only as long as the policy allows
+List the first places to cover with cameras,Placement,learned,Entrances and exits first
+Explain backlight and why it matters,Placement,learned,Camera facing bright light washes the picture out
+Check a camera picture at night,Placement,not applicable,Sample only — no real camera to check
+Name the privacy rules that apply where a system operates,Privacy and legal,reviewing,Rules differ by country — check locally
+Explain who may view and export footage,Privacy and legal,learned,Limit access and log who views or exports
+Explain signage for camera areas,Privacy and legal,learned,Clear signs where cameras operate
+Check all cameras are recording,Upkeep,not applicable,Sample only — no real system to check
+Check the recorder clock is correct,Upkeep,learned,Wrong timestamps make playback useless
+Check free storage against retention policy,Upkeep,learned,Oldest video must not be overwritten too soon
+Check firmware is up to date,Upkeep,reviewing,Cameras and recorder both need updates
+Confirm admin password is stored securely,Upkeep,learned,Never in a shared document or a repo
